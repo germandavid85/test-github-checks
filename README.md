@@ -1,7 +1,7 @@
 # test-github-checks
 
 this is to test
-another test
+another tes
 
 
 1. try
